@@ -18,6 +18,11 @@ public class Principal {
 		
 		int menuPrincipal, subMenu;
 		
+		System.out.println("Esto e sun ejemplo para git hub");
+		int valor=90;
+		System.out.println("hoa git "+valor);
+		
+		
 		LogicaMetodos imp=new LogicaMetodos();
 		do {
 			System.out.println("BIENVENIDO AL MENU");
